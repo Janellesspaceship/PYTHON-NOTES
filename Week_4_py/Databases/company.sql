@@ -23,7 +23,7 @@ VALUES
 ("Data Analytics"),
 ("Software Engineering"),
 ("Data Science"),
-("Front-end Developing")-
+("Front-end Developing")
 
 INSERT INTO Employees(First_name,Last_name,Age,Email,Department_Id)
 VALUES
